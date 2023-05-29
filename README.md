@@ -109,8 +109,9 @@ print(f'La temperatura en grados Farenheit es: {farenheit}')
 ## 1.2.6 Imágenes
 #### Sintaxis Markdown:
 Markdown:
-\![imagen1](https://pro.iesdonana.org/assets/logo.png "Leyenda de la imagen"\)
-
+```
+![imagen1](https://pro.iesdonana.org/assets/logo.png "Leyenda de la imagen"\)
+```
 HTML:
 \<p align="center">
 <img src="https://pro.iesdonana.org/assets/logo.png" alt="JuveR
@@ -126,15 +127,16 @@ HTML:
 Puedes crear una lista anidada al dejar sangría en uno o más elementos de la lista
 debajo de otro elemento.
 
-#### Sintaxis Markdown:
-\* Item 1
-\* Item 1.1  
-\* Item 1.2  
-\* Item 2  
-\* Item 2.1  
-\* Item 3  
-\* Item 4
-
+#### Sintaxis Markdown:  
+```
+* Item 1
+* Item 1.1  
+* Item 1.2  
+* Item 2  
+* Item 2.1  
+* Item 3  
+* Item 4
+```
 #### HTML renderizado en GitHub:
 * Item 1
     * Item 1.1
