@@ -39,13 +39,14 @@ En plataformas de repositorios remotos como *GitHub*, la función de este archiv
 ## 1.2 Etiquetas básicas de Markdown
 ### 1.2.1 Encabezados
 #### Sintaxis Markdown:
+```
 \# Esto es un encabezado h1  
 \# Esto es un encabezado h2  
 \### Esto es un encabezado h3  
 \#### Esto es un encabezado h4  
 \##### Esto es un encabezado h5  
 \###### Esto es un encabezado h6  
-
+```
 
 #### HTML renderizado en GitHub:
 # Esto es un encabezado h1  
@@ -64,7 +65,9 @@ En plataformas de repositorios remotos como *GitHub*, la función de este archiv
 
 ## 1.2.3 Resaltar un comando
 ##### Sintaxis Markdown:
-En esta frase estamos resaltando el comando \`ls -la.
+```
+En esta frase estamos resaltando el comando \ls -la.
+```
 ##### HTML renderizado en GitHub:
 En esta frase estamos resaltado el comando `ls -la` 
 
