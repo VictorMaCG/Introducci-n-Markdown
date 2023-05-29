@@ -1,21 +1,21 @@
 # Indice
-1. Taller de introducción a Markdown
-1.1 ¿Qué es Markdown?
-1.2 Etiquetas básicas de Markdown
-1.2.1 Encabezados
-1.2.2 Negrita y cursiva
-1.2.3 Resaltar un comando
-1.2.4 Bloques de código
-1.2.5 Enlaces
-1.2.6 Imágenes
-1.2.7 Listas
-1.2.8 Tablas
-1.2.9 Forzar un salto de línea
-1.2.10 Citar textos
-1.2.11 Comentarios
-1.2.12 Diagrama de flujo
-1.2.13 Ecuaciones matemáticas
-2. Referencias
+1. Taller de introducción a Markdown  
+1.1 ¿Qué es Markdown?  
+1.2 Etiquetas básicas de Markdown  
+1.2.1 Encabezados  
+1.2.2 Negrita y cursiva  
+1.2.3 Resaltar un comando  
+1.2.4 Bloques de código  
+1.2.5 Enlaces  
+1.2.6 Imágenes  
+1.2.7 Listas  
+1.2.8 Tablas  
+1.2.9 Forzar un salto de línea  
+1.2.10 Citar textos  
+1.2.11 Comentarios  
+1.2.12 Diagrama de flujo  
+1.2.13 Ecuaciones matemáticas  
+2. Referencias  
 
 
 # 1. Taller de introducción a Markdown  
