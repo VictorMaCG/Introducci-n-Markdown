@@ -150,6 +150,7 @@ debajo de otro elemento.
 Puedes crear una lista anidada al dejar sangría en uno o más elementos de la lista
 debajo de otro elemento.
 #### Sintaxis Markdown:
+```
 1. Item 1  
     1.1 Item 1.1  
     1.2 Item 1.2
@@ -157,7 +158,7 @@ debajo de otro elemento.
     2.1 Item 2.1  
 3. Item 3  
 4. Item 4
-
+```
 #### HTML renderizado en GitHub::
 1. Item 1  
     1.1 Item 1.1  
@@ -172,11 +173,12 @@ Para poner un comentario en Markdown y que su contenido no sea rendereizado, se
 utiliza la misma sintaxis que los comentarios de HTML. 
 
 #### Sintaxis Markdown:  
+```
 Párrafo 1.  
 
-\<!-- Este texto es un comentario y no será renderizado -->  
+<!-- Este texto es un comentario y no será renderizado -->  
 Párrafo 2.  
-
+```
 #### HTML renderizado en GitHub:  
 
 Párrafo 1.  
