@@ -39,21 +39,21 @@ En plataformas de repositorios remotos como *GitHub*, la función de este archiv
 ## 1.2 Etiquetas básicas de Markdown
 ### 1.2.1 Encabezados
 #### Sintaxis Markdown:
-\# Esto es un encabezado h1
-\# Esto es un encabezado h2
-\### Esto es un encabezado h3
-\#### Esto es un encabezado h4
-\##### Esto es un encabezado h5
-\###### Esto es un encabezado h6
+\# Esto es un encabezado h1  
+\# Esto es un encabezado h2  
+\### Esto es un encabezado h3  
+\#### Esto es un encabezado h4  
+\##### Esto es un encabezado h5  
+\###### Esto es un encabezado h6  
 
 
 #### HTML renderizado en GitHub:
-# Esto es un encabezado h1
-## Esto es un encabezado h2
-### Esto es un encabezado h3
-#### Esto es un encabezado h4
-##### Esto es un encabezado h5
-###### Esto es un encabezado h6
+# Esto es un encabezado h1  
+## Esto es un encabezado h2  
+### Esto es un encabezado h3  
+#### Esto es un encabezado h4  
+##### Esto es un encabezado h5  
+###### Esto es un encabezado h6  
 
 ## 1.2.2 Negrita y cursiva
 | Estilo | Métodos abreviados | Sintaxis | Ejemplo | Salida |
