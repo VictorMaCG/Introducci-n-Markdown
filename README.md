@@ -30,11 +30,11 @@ En este curso vamos a trabajar con el flavor que se utiliza en GitHub para redac
 
 En plataformas de repositorios remotos como *GitHub*, la función de este archivo es presentar información del proyecto, como:
 
-• Descripción de su proyecto.
-• funcionalidades.
-• Cómo pueden usarlo los usuarios.
-• Donde los usuarios pueden encontrar ayuda sobre su proyecto.
-• Autores del proyecto.
+• Descripción de su proyecto.  
+• funcionalidades.  
+• Cómo pueden usarlo los usuarios.  
+• Donde los usuarios pueden encontrar ayuda sobre su proyecto.  
+• Autores del proyecto.  
 
 ## 1.2 Etiquetas básicas de Markdown
 ### 1.2.1 Encabezados
