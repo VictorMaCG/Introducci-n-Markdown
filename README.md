@@ -193,15 +193,16 @@ se ha de poner entre $ la expresión concreta.
 
 * Para insertar una ecuación dentro de una frase, o para utilizar un carácter
 especial, como letras griegas.  
-
+```
     La ecuación, \$x=\frac{-b \pm \sqrt{{b}^{2} - 4 \cdot a \cdot
 c}}{2 \cdot a}$, es de segundo grado.
-
+```
 * Como bloque.  
-
+```
 La ecuación de segundo grado es:  
 \$$x=\frac{-b \pm \sqrt{{b}^{2} - 4 \cdot a \cdot c}}{2 \cdot
 a}$$
+```                                                          
 #### HTML renderizado en GitHub:  
 * Dentro de una frase  
 La ecuación, $x=\frac{-b \pm \sqrt{{b}^{2} - 4 \cdot a \cdot
